@@ -39,6 +39,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tylerj1221&theme=tokyonight" alt="Tyler's GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tylerj1221&theme=tokyonight" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats-delta-eight-yl2cpiouuq.vercel.app/api?username=tylerj1221&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Tyler's GitHub stats" />
+  <img height="180" src="https://github-readme-stats-delta-eight-yl2cpiouuq.vercel.app/api/top-langs/?username=tylerj1221&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
