@@ -39,6 +39,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="380" height="180" src="https://github-readme-stats-delta-eight-yl2cpiouuq.vercel.app/api?username=tylerj1221&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&card_width=380&theme=tokyonight&hide_border=true" alt="Tyler's GitHub stats" />
+  <img width="380" height="180" src="https://github-readme-stats-delta-eight-yl2cpiouuq.vercel.app/api?username=tylerj1221&show_icons=true&count_private=true&hide_rank=true&card_width=380&theme=tokyonight&hide_border=true" alt="Tyler's GitHub stats" />
   <img width="380" height="180" src="https://github-readme-stats-delta-eight-yl2cpiouuq.vercel.app/api/top-langs/?username=tylerj1221&layout=compact&card_width=380&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
