@@ -40,8 +40,5 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tylerj1221&theme=tokyonight" alt="Tyler's GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tylerj1221&theme=tokyonight" alt="Top languages" />
 </p>
